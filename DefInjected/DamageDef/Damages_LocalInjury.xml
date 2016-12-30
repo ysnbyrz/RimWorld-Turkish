@@ -36,7 +36,7 @@
 	<Burn.label>Yanık</Burn.label>
 	
 	<Frostbite.label>Donuk</Frostbite.label>
-	<Frostbite.deathMessage>{0} donuğa yenik duştü..</Frostbite.deathMessage>
+	<Frostbite.deathMessage>{0} dona yenik duştü..</Frostbite.deathMessage>
 	
 	<SurgicalCut.label>Ameliyat kesigi</SurgicalCut.label>
 	<SurgicalCut.deathMessage>{0} ameliyat sürecinde öldu.</SurgicalCut.deathMessage>
